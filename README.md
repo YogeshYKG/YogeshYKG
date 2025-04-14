@@ -1,4 +1,13 @@
-# Hi , I'm Yogesh Kr. Gupta
+<div align="center">
+  <h1>Hey, I'm Yogesh Kumar Gupta! 👋</h1>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/gyogesh484/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/your-profile/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://github.com/YogeshYKG"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://codepen.io/your-profile"><img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/></a>
+  </div>
+  <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
+</div>
 
 ### About Me:
 Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 2.5 years of professional experience with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
@@ -18,11 +27,7 @@ Key contributions include:
 Check out my [professional GitHub account](https://github.com/GYogesh1234) for more contributions made under my office email (yogesh@vdbapp.com).
 
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Yogesh+Kumar+Gupta+-+Full+Stack+Developer" alt="Banner" width="100%"/>
-  <h1>Hey, I'm Yogesh Kumar Gupta! 👋</h1>
-  <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
-</div>
+
 
 ---
 
