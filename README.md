@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hey, I'm Yogesh Kumar Gupta! 👋</h1>
   <div align="center">
-    <a href="https://www.linkedin.com/in/gyogesh484/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://leetcode.com/your-profile/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://www.linkedin.com/in/yogeshkrgupta/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/u/user4816XH/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     <a href="https://github.com/YogeshYKG"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://codepen.io/your-profile"><img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/></a>
+    <a href="https://codepen.io/codewithgyogesh"><img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/></a>
   </div>
   <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
   <img src="https://komarev.com/ghpvc/?username=YogeshYKG&label=Profile%20views&color=0e75b6&style=flat" alt="YogeshYKG" style="vertical-align: middle;"/>
@@ -14,7 +14,9 @@
     </a>
   </div>
 </div>
+
 ---
+
 ### About Me:
 Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 3 years of professional experience in **MERN & MEAN STACK** with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
 
@@ -63,35 +65,32 @@ I love solving real-world problems through code and improving user experiences w
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-techbinary&theme=dark&hide_border=true" />
 </p>
+
+
 ---
 
 ### 🌟 Live Projects
 
-#### [GNDiamonds](https://your-gndiamonds-link.com)
-*Angular | TypeScript | AWS | Bootstrap*  
-- Built search, product, and signup pages for **30+ white-labeled clients**.  
-- Optimized UX with infinite scroll and dynamic grids, reducing drop-off rates.  
-- Added secure uploads and Material Stepper for seamless signup flow.
-
-#### [SABAN ONYX](https://your-saban-onyx-link.com)
-*Angular | TypeScript | AWS | Bootstrap*  
-- Developed a 3D jewelry configurator with **12,000+ combinations**, boosting sales by **450%**.  
-- Integrated WhatsApp sharing and saved searches for better engagement.  
-- Optimized APIs for smooth UI-backend communication.
+| [GNDiamonds](https://www.gndiamond.com/) | [SABAN ONYX](https://www.sabanonyx.com/) |
+|------------|------------|
+| <div align="center"> agndiamonds/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> | <div align="center">asaban/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> |
+| <div align="center">- Built search, product, and signup pages for **30+ white-labeled clients**.<br>- Optimized UX with infinite scroll and dynamic grids, reducing drop-off rates.<br>- Added secure uploads and Material Stepper for seamless signup flow.</div> | <div align="center">- Developed a 3D jewelry configurator with **12,000+ combinations**, boosting sales by **450%**.<br>- Integrated WhatsApp sharing and saved searches for better engagement.<br>- Optimized APIs for smooth UI-backend communication.</div> |
 
 > **More projects** on my [GitHub Repos](https://github.com/YogeshYKG?tab=repositories)!
 
 ---
 
 ### 📊 Stats & Achievements
+
+- 🏆 Certificate from **National Informatics Centre (NIC) of India** for a Full-Stack WebApp
+- 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/u/user4816XH/))
+- ✅ Led **3 developers** to deliver a 3D configurator at VDB
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogeshYKG&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYKG&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-- 🏆 Certificate from **National Informatics Centre (NIC) of India** for a Full-Stack WebApp
-- 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile))
-- ✅ Led **3 developers** to deliver a 3D configurator at VDB
 
 ---
 
