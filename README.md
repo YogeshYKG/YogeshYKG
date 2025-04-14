@@ -28,7 +28,7 @@ Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving c
 
 ---
 ### Personal Achievements:
-- 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile)), focusing on algorithms and data structures, which has strengthened my problem-solving skills.
+- 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile)), focusing on DSA, which has strengthened my problem-solving skills.
 - Developed **several open-source projects** including web applications, utility libraries, and tools for fellow developers. Feel free to explore my repositories!
 - Worked on multiple **algorithm-based challenges** and contributed solutions and improvements to open-source codebases.
 
