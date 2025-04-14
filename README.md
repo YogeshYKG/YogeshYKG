@@ -14,7 +14,7 @@
 
 
 ### About Me:
-Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 2.5 years of professional experience with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
+Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 3 years of professional experience in **MERN & MEAN STACK** with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
 
 ---
 ### 🛠️ Tech Stack
