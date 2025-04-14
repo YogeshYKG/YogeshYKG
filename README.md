@@ -8,7 +8,7 @@
   </div>
   <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
   <img src="https://komarev.com/ghpvc/?username=YogeshYKG&label=Profile%20views&color=0e75b6&style=flat" alt="YogeshYKG" style="vertical-align: middle;"/>
-  <div style="display: flex; align-items: center; gap: 10px; justify-content: center;"
+  <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
     <a href="/Yogesh_CV.pdf" download="Yogesh_CV.pdf">
       <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; display: inline-flex; align-items: center; justify-content: center; vertical-align: middle;">Download CV</button>
     </a>
