@@ -75,10 +75,9 @@ I love solving real-world problems through code and improving user experiences w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYKG&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-- 🏆 Certificate from **National Informatics Centre (NIC)** for a Full-Stack Web App
+- 🏆 Certificate from **National Informatics Centre (NIC) of India** for a Full-Stack WebApp
 - 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile))
 - ✅ Led **3 developers** to deliver a 3D configurator at VDB
-- ⚡ Optimized **26 routes** and cut latency by **20%** at BlueBerry Groups
 
 ---
 
