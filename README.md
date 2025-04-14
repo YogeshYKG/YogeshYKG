@@ -39,6 +39,10 @@ I love solving real-world problems through code and improving user experiences w
 - Resolved **250+ Jira tickets** involving bug fixes, UI improvements, and feature additions.
 - Architected **3D Jewelry Configurator**, **Notification**, **Cart Checkout**, **sign-up forms** and integrated APIs for seamless onboarding.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYogesh1234&theme=github_dark" />
+</p>
+
 🔗 [Check out my VDB GitHub account](https://github.com/GYogesh1234)
 
 ---
