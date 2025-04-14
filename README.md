@@ -38,22 +38,30 @@ I love solving real-world problems through code and improving user experiences w
 
 - Resolved **250+ Jira tickets** involving bug fixes, UI improvements, and feature additions.
 - Architected **3D Jewelry Configurator**, **Notification**, **Cart Checkout**, **sign-up forms** and integrated APIs for seamless onboarding.
-
+### 🟢 Contribution timeline (full year)
+🔗 [Check out my VDB GitHub account](https://github.com/GYogesh1234)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYogesh1234&theme=github_dark" />
+  <img src="GYogesh1234.png" alt="Yogesh's GitHub contribution graph" />
 </p>
 
-🔗 [Check out my VDB GitHub account](https://github.com/GYogesh1234)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYogesh1234&theme=dark&hide_border=true" />
+</p>
 ---
 
 ### 🏢 TechBinary (BlueBerry Groups)
  
 - Spearheaded development of the **Roadster WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
 - Resolved critical issues on **BBJ** & **BBT**, improved data fetch time by **200%**, and reduced latency to **0.8s**.
-
+### 🟢 Contribution timeline (full year)
 🔗 [Check out my TechBinary GitHub account](https://github.com/Yogesh-techbinary)
+<p align="center">
+  <img src="https://ghchart.rshah.org/Yogesh-techbinary" alt="Yogesh's GitHub contribution graph" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-techbinary&theme=dark&hide_border=true" />
+</p>
 ---
 
 ### 🌟 Live Projects
