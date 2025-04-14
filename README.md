@@ -9,9 +9,24 @@
   <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
 </div>
 
+
+---
+
+
 ### About Me:
 Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 2.5 years of professional experience with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
 
+---
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
 ### Personal Achievements:
 - Over **270 LeetCode problems** solved, focusing on algorithms and data structures, which has strengthened my problem-solving skills.
 - Developed **several open-source projects** including web applications, utility libraries, and tools for fellow developers. Feel free to explore my repositories!
@@ -39,15 +54,6 @@ I'm a Full Stack Developer with over **3 years of experience** building scalable
 - 🛠️ Resolved **250+ Jira tickets** and boosted sales by **450%** with a 3D configurator
 - 📫 Reach me at: guptayogesh484.00@gmail.com
 
----
-
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
