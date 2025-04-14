@@ -27,37 +27,31 @@ Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving c
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
-### Personal Achievements:
-- 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile)), focusing on **DSA**, which has strengthened my **Problem Solving Skills**.
-- Developed **several open-source projects** including web applications, utility libraries, and tools for fellow developers. Feel free to explore my repositories!
-- Worked on multiple **algorithm-based challenges** and contributed solutions and improvements to open-source codebases.
+## 👨‍💻 Technical Contributions
 
-### Professional Contributions (Virtual Diamond Boutique):
-I also contribute to internal projects at **Virtual Diamond Boutique** (VDB), where I focus on enhancing web applications and improving system efficiency.  
-Key contributions include:
-- Worked on over **250 Jira tickets** to resolve issues, implement new features, and maintain code quality.
-- Contributed to the development of **dynamic sign-up forms**, API integration, and front-end enhancements for the VDB platform.
-- Optimized **performance** using tools like **JMeter** and **Sentry**, and maintained deployments on **Microsoft Azure**.
-
-Check out my [professional GitHub account](https://github.com/GYogesh1234) for more contributions made under my office email (yogesh@vdbapp.com).
-
-
-
+I love solving real-world problems through code and improving user experiences with every commit. Here’s a glimpse of my work:
 
 ---
 
-### 🚀 About Me
-I'm a Full Stack Developer with over **3 years of experience** building scalable web apps. At Virtual Diamond Boutique and BlueBerry Groups, I’ve led teams, optimized performance (e.g., **90% faster banner loads**), and delivered features for **30+ clients**. Passionate about clean code, UI/UX, and mentoring others.
+### 🏢 Virtual Diamond Boutique (VDB)
 
-- 🌐 Based in Jaipur, India
-- 💻 Specializing in React, Angular, TypeScript, and AWS
-- 🛠️ Resolved **250+ Jira tickets** and boosted sales by **450%** with a 3D configurator
-- 📫 Reach me at: guptayogesh484.00@gmail.com
+- Resolved **250+ Jira tickets** involving bug fixes, UI improvements, and feature additions.
+- Architected **3D Jewelry Configurator**, **Notification**, **Cart Checkout**, **sign-up forms** and integrated APIs for seamless onboarding.
 
+🔗 [Check out my VDB GitHub account](https://github.com/GYogesh1234)
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 TechBinary (BlueBerry Groups)
+ 
+- Spearheaded development of the **Roadster WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
+- Resolved critical issues on **BBJ** & **BBT**, improved data fetch time by **200%**, and reduced latency to **0.8s**.
+
+🔗 [Check out my TechBinary GitHub account](https://github.com/Yogesh-techbinary)
+
+---
+
+### 🌟 Live Projects
 
 #### [GNDiamonds](https://your-gndiamonds-link.com)
 *Angular | TypeScript | AWS | Bootstrap*  
@@ -85,16 +79,6 @@ I'm a Full Stack Developer with over **3 years of experience** building scalable
 - 🧩 Solved **250+ LeetCode problems** ([View Profile](https://leetcode.com/your-profile))
 - ✅ Led **3 developers** to deliver a 3D configurator at VDB
 - ⚡ Optimized **26 routes** and cut latency by **20%** at BlueBerry Groups
-
----
-
-### 🤝 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/gyogesh484/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/your-profile/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/YogeshYKG"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://codepen.io/your-profile"><img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/></a>
-</div>
 
 ---
 
