@@ -7,6 +7,7 @@
     <a href="https://codepen.io/your-profile"><img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/></a>
   </div>
   <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
+  <img src="https://komarev.com/ghpvc/?username=YogeshYKG&label=Profile%20views&color=0e75b6&style=flat" alt="YogeshYKG" />
 </div>
 
 
@@ -42,7 +43,7 @@ I love solving real-world problems through code and improving user experiences w
 
 ---
 
-### 🚀 TechBinary (BlueBerry Groups)
+### 🏢 TechBinary (BlueBerry Groups)
  
 - Spearheaded development of the **Roadster WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
 - Resolved critical issues on **BBJ** & **BBT**, improved data fetch time by **200%**, and reduced latency to **0.8s**.
