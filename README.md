@@ -73,7 +73,7 @@ I love solving real-world problems through code and improving user experiences w
 
 | [GNDiamonds](https://www.gndiamond.com/) | [SABAN ONYX](https://www.sabanonyx.com/) |
 |------------|------------|
-| <div align="center"> agndiamonds/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> | <div align="center">asaban/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> |
+| <div align="center"> agndiamonds/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> | <div align="center">asaban/easylogin2024<br>*Angular - TypeScript - AWS - Bootstrap*</div> |
 | <div align="center">- Built search, product, and signup pages for **30+ white-labeled clients**.<br>- Optimized UX with infinite scroll and dynamic grids, reducing drop-off rates.<br>- Added secure uploads and Material Stepper for seamless signup flow.</div> | <div align="center">- Developed a 3D jewelry configurator with **12,000+ combinations**, boosting sales by **450%**.<br>- Integrated WhatsApp sharing and saved searches for better engagement.<br>- Optimized APIs for smooth UI-backend communication.</div> |
 
 > **More projects** on my [GitHub Repos](https://github.com/YogeshYKG?tab=repositories)!
