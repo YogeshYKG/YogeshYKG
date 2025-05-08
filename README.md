@@ -25,10 +25,12 @@ Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving c
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 ## 👨‍💻 Technical Contributions
@@ -79,6 +81,18 @@ A high-performance, fully dynamic jewelry builder securing over **900 customers*
  
 - Spearheaded entire development of the **Roadster Bikes Responsive WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
 - Resolved critical issues on **BBJ** & **BBT**, improved data fetch time by **200%**, and reduced latency to **0.8s**.
+
+#### 🏍️ **Roadster Bikes – Brand Landing Platform**
+[Visit Live ➜](https://davidotesting.blueberrygroup.org/)
+A fully responsive, single-developer web app built for **Roadster Bikes**, with dedicated landing pages for **Bajaj** and **Davido** product lines.
+- 🧱 **Solo Project** – Designed, built, and deployed independently from scratch.
+- 🎨 **Responsive UI with ShadCN** – Clean, modern components using ShadCN for seamless UX.
+- 🧩 **Multi-Brand Support** – Modular design enables custom flows for Bajaj and Davido.
+- 🔐 **Client-Side Security** – Helped secure digital assets and improve data handling practices.
+- 🔄 **API Integration** – Connected external data sources for product listings and user actions.
+- ☁️ **Azure Blob Storage** – Integrated for asset management and reliable file delivery.
+- 🛠️ **Tech Stack** – React · JavaScript · CSS · ShadCN UI · REST APIs · Azure Blob Storage
+
 ### 🟢 Contribution timeline (full year)
 🔗 [Check out my TechBinary GitHub account](https://github.com/Yogesh-techbinary)
 
@@ -89,18 +103,6 @@ A high-performance, fully dynamic jewelry builder securing over **900 customers*
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-techbinary&theme=dark&hide_border=true" />
 </p>
-
-
----
-
-### 🌟 Live Projects
-
-| [GNDiamonds](https://www.gndiamond.com/) | [SABAN ONYX](https://www.sabanonyx.com/) |
-|------------|------------|
-| <div align="center"> agndiamonds/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> | <div align="center">asaban/easylogin2024<br>*Angular - TypeScript - AWS - Bootstrap*</div> |
-| <div align="center">- Built search, product, and signup pages for **30+ white-labeled clients**.<br>- Optimized UX with infinite scroll and dynamic grids, reducing drop-off rates.<br>- Added secure uploads and Material Stepper for seamless signup flow.</div> | <div align="center">- Developed a 3D jewelry configurator with **12,000+ combinations**, boosting sales by **450%**.<br>- Integrated WhatsApp sharing and saved searches for better engagement.<br>- Optimized APIs for smooth UI-backend communication.</div> |
-
-> **More projects** on my [GitHub Repos](https://github.com/YogeshYKG?tab=repositories)!
 
 ---
 
