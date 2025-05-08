@@ -47,13 +47,37 @@ I love solving real-world problems through code and improving user experiences w
   <img src="GYogesh1234.png" alt="Yogesh's GitHub contribution graph" />
 </p>
 
-<p align="center">
+### 🌟 ShowCase
+
+#### 💍 **CLAIRMOR Jewelry Builder**
+[Visit Live ➜](https://clairamor.com/apps/ring-creator/rb-setting-list?jewelry_type=ring&view_type=grid&metal_type=White%20Gold%7C14K&min_price=85.00&max_price=169411.00)
+A high-performance, fully dynamic jewelry builder securing over **900 customers** monthly. 
+
+- ⚙️ **3D Ring Configurator** – Built with over **12,000+ ring and stone combinations**, delivering a **450% sales boost**.
+- 🔍 **Interactive Jewelry Selector** – Users can choose metal type, stone shape, size, and ring style in real-time.
+- 🎯 **Dynamic UI & Infinite Scroll** – Smooth UX with fast filtering and browsing experience across devices.
+- 💬 **Integrated Engagement Tools** – WhatsApp sharing, saved searches, and seamless iframe embedding.
+- 🛠️ **Tech Stack** – Angular · React · TypeScript · AWS · Bootstrap · REST APIs · WebGL
+
+
+### 🌟 Live Projects
+
+| [GNDiamonds](https://www.gndiamond.com/) | [SABAN ONYX](https://www.sabanonyx.com/) |
+|------------|------------|
+| <div align="center"> agndiamonds/easylogin2023<br>*Angular - TypeScript - AWS - Bootstrap*</div> | <div align="center">asaban/easylogin2024<br>*Angular - TypeScript - AWS - Bootstrap*</div> |
+| <div align="center">- Built search, product, and signup pages for **30+ white-labeled clients**.<br>- Optimized UX with infinite scroll and dynamic grids, reducing drop-off rates.<br>- Added secure uploads and Material Stepper for seamless signup flow.</div> | <div align="center">- Developed a 3D jewelry configurator with **12,000+ combinations**, boosting sales by **450%**.<br>- Integrated WhatsApp sharing and saved searches for better engagement.<br>- Optimized APIs for smooth UI-backend communication.</div> |
+
+> **More projects** on my [GitHub Repos](https://github.com/YogeshYKG?tab=repositories)!
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYogesh1234&theme=dark&hide_border=true" />
 </p>
 
+---
+
 ### 🏢 TechBinary (BlueBerry Groups)
  
-- Spearheaded development of the **Roadster WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
+- Spearheaded entire development of the **Roadster Bikes Responsive WebApp**, onboarding brands Bikes like **Bajaj** and **Davido**.
 - Resolved critical issues on **BBJ** & **BBT**, improved data fetch time by **200%**, and reduced latency to **0.8s**.
 ### 🟢 Contribution timeline (full year)
 🔗 [Check out my TechBinary GitHub account](https://github.com/Yogesh-techbinary)
