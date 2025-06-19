@@ -18,7 +18,7 @@
 ---
 
 ### About Me:
-Hi, I’m **Yogesh Kr. Gupta**! I’m a web developer passionate about solving complex problems and building useful applications. I have 3 years of professional experience in **MERN & MEAN STACK** with a strong focus on **frontend development**, working primarily with **Angular**, **TypeScript**, and **React**.
+**Full-stack dev** (MERN-focused) with **strong product instincts** and **3+ yrs** **delivering fast**, **user-driven apps**. I’m looking to join a **fast-paced team** to **build scalable products** with **clean UI & UX**, full ownership, and **room to grow**. Big on **collaboration and mentoring**.
 
 ---
 ### 🛠️ Tech Stack
