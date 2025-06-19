@@ -9,7 +9,7 @@
   <p>Full Stack Developer crafting intuitive web experiences with React, Angular, and TypeScript.</p>
   <img src="https://komarev.com/ghpvc/?username=YogeshYKG&label=Profile%20views&color=0e75b6&style=flat" alt="YogeshYKG" style="vertical-align: middle;"/>
   <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
-    <a href="/Resume_Yogesh.pdf" download="Resume_Yogesh.pdf" target="_blank">
+    <a href="/Resume_Yogesh_Updated.pdf" download="Resume_Yogesh.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Download%20CV-007bff?style=flat&logo=pdf&logoColor=white" alt="Download CV" />
     </a>
   </div>
