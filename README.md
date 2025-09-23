@@ -18,7 +18,7 @@
 ---
 
 ### About Me:
-**Full-stack dev** (MERN-focused) with **strong product instincts** and **3+ yrs** **delivering fast**, **user-driven apps**. I’m looking to join a **fast-paced team** to **build scalable products** with **clean UI & UX**, full ownership, and **room to grow**. Big on **collaboration and mentoring**.
+**Full-stack Software Engineer** (MERN & MEAN) with **3.5+ years** building scalable web apps & CRMs. Delivered 7+ projects across **Travel**, **Jewelry**, **Food & Research** — combining technical depth with business impact.
 
 ---
 ### 🛠️ Tech Stack
